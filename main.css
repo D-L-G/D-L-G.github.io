@@ -3,12 +3,15 @@ body{
     margin: 0;
     text-align: center;
     width: 100%;
-    background-color: aqua;
+    background-color: grey;
     background-size: cover;
+    background: url('img/budapest1934.jpg');
+
 }
 
-title {
-    font-size: 32px;
+: 
+ {
+    font-size: 70px;
     font-family: Helvetica, Arial, sans-serif;
     color: black;
 
